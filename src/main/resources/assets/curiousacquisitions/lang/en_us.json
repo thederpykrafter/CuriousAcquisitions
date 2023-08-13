@@ -1,4 +1,7 @@
 {
   "item.curiousacquisitions.strange_drink": "Strange Drink",
-  "itemgroup.curious_group": "Curious Acquisitions"
+
+  "block.curiousacquisitions.strange_block": "Strange Block",
+
+  "itemgroup.strange": "Curious Acquisitions"
 }
