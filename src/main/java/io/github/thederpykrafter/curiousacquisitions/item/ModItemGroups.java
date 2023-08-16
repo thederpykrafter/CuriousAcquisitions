@@ -17,6 +17,7 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.STRANGE_DRINK)).entries((displayContext, entries) -> {
                         entries.add(ModItems.STRANGE_DRINK);
                         entries.add(ModBlocks.STRANGE_BLOCK);
+                        entries.add(ModItems.BOW_OF_RETURN);
 
 
                     }).build());

@@ -1,8 +1,8 @@
 package io.github.thederpykrafter.curiousacquisitions;
 
+import io.github.thederpykrafter.curiousacquisitions.datagen.*;
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
-import io.github.thederpykrafter.curiousacquisitions.datagen.*;
 
 public class CuriousAcquisitionsDataGen implements DataGeneratorEntrypoint {
 	@Override
@@ -11,8 +11,11 @@ public class CuriousAcquisitionsDataGen implements DataGeneratorEntrypoint {
 
 		pack.addProvider(ModBlockTagProvider::new);
 		pack.addProvider(ModItemTagProvider::new);
-		pack.addProvider(ModLootTableProvider::new);
+		pack.addProvider(ModBlockLootTableProvider::new);
 		pack.addProvider(ModModelProvider::new);
 		pack.addProvider(ModRecipeProvider::new);
+		pack.addProvider(ModChestLootTableProvider::new);
 	}
+
+
 }
