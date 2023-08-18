@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "curiousacquisitions:item/bow_of_return"
-  }
-}

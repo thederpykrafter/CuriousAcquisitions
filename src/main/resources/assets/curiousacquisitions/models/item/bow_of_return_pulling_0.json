@@ -1,0 +1,6 @@
+{
+  "parent": "curiousacquisitions:item/bow_of_return",
+  "textures": {
+    "layer0": "curiousacquisitions:item/bow_of_return_pulling_0"
+  }
+}
