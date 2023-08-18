@@ -2,7 +2,6 @@ package io.github.thederpykrafter.curiousacquisitions.item;
 
 import io.github.thederpykrafter.curiousacquisitions.CuriousAcquisitions;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
-import net.fabricmc.fabric.api.item.v1.FabricItemStack;
 import net.minecraft.item.BowItem;
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
