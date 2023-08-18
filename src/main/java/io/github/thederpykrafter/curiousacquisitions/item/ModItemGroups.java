@@ -18,10 +18,7 @@ public class ModItemGroups {
                         entries.add(ModItems.STRANGE_DRINK);
                         entries.add(ModBlocks.STRANGE_BLOCK);
                         entries.add(ModItems.BOW_OF_RETURN);
-
-
                     }).build());
-
 
     public static void registerItemGroups() {
         CuriousAcquisitions.LOGGER.info("Registering Item Groups for " + CuriousAcquisitions.MOD_ID);

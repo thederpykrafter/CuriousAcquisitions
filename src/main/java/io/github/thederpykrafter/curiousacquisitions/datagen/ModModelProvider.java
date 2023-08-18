@@ -21,6 +21,7 @@ public class ModModelProvider extends FabricModelProvider {
     @Override
     public void generateItemModels(ItemModelGenerator itemModelGenerator) {
         itemModelGenerator.register(ModItems.STRANGE_DRINK, Models.GENERATED);
-        itemModelGenerator.register(ModItems.BOW_OF_RETURN, Models.GENERATED);
     }
+
+
 }
