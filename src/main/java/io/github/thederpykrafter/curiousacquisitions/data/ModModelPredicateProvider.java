@@ -1,4 +1,4 @@
-package io.github.thederpykrafter.curiousacquisitions.datagen;
+package io.github.thederpykrafter.curiousacquisitions.data;
 
 import net.fabricmc.fabric.api.object.builder.v1.client.model.FabricModelPredicateProviderRegistry;
 import io.github.thederpykrafter.curiousacquisitions.item.ModItems;

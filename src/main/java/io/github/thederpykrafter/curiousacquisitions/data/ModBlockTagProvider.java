@@ -1,4 +1,4 @@
-package io.github.thederpykrafter.curiousacquisitions.datagen;
+package io.github.thederpykrafter.curiousacquisitions.data;
 
 import io.github.thederpykrafter.curiousacquisitions.block.ModBlocks;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;

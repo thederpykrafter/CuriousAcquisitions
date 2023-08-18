@@ -1,7 +1,7 @@
 package io.github.thederpykrafter.curiousacquisitions;
 
 import io.github.thederpykrafter.curiousacquisitions.block.ModBlocks;
-import io.github.thederpykrafter.curiousacquisitions.datagen.ModModelPredicateProvider;
+import io.github.thederpykrafter.curiousacquisitions.data.ModModelPredicateProvider;
 import io.github.thederpykrafter.curiousacquisitions.item.ModFoodComponents;
 import io.github.thederpykrafter.curiousacquisitions.item.ModItemGroups;
 import io.github.thederpykrafter.curiousacquisitions.item.ModItems;

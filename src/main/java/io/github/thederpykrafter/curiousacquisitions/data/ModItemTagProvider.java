@@ -1,14 +1,12 @@
-package io.github.thederpykrafter.curiousacquisitions.datagen;
+package io.github.thederpykrafter.curiousacquisitions.data;
 
 import io.github.thederpykrafter.curiousacquisitions.block.ModBlocks;
 import io.github.thederpykrafter.curiousacquisitions.item.ModItems;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricTagProvider;
 import net.minecraft.item.Item;
-import net.minecraft.item.Items;
 import net.minecraft.registry.RegistryKeys;
 import net.minecraft.registry.RegistryWrapper;
-import net.minecraft.registry.tag.ItemTags;
 import net.minecraft.registry.tag.TagKey;
 import net.minecraft.util.Identifier;
 

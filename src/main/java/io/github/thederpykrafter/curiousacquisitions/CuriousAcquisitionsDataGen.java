@@ -1,6 +1,6 @@
 package io.github.thederpykrafter.curiousacquisitions;
 
-import io.github.thederpykrafter.curiousacquisitions.datagen.*;
+import io.github.thederpykrafter.curiousacquisitions.data.*;
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
 
