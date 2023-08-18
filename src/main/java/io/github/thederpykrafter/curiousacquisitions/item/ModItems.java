@@ -16,7 +16,7 @@ public class ModItems {
             .rarity(Rarity.UNCOMMON)
     ));
 
-    public static final Item BOW_OF_RETURN = registerItem("bow_of_return", new ModBowItem((new FabricItemSettings()
+    public static final Item BOW_OF_RETURN = registerItem("bow_of_return", new BowItem((new FabricItemSettings()
             .rarity(Rarity.EPIC)
             .maxDamage(384)
     )));
